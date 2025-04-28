@@ -22,9 +22,9 @@ NT:NH is crafted for mod fans craving a challenge. From newbies to pros, our tou
 - **GTNH Vibes**: Hardcore, rewarding fun.
 
 ## Get Started 🛡️
-1. **Grab the Modpack**: Download it from our [official website](https://nuclear-tech-new-horizons.github.io/).
-2. **Join Us**: Chat on [Discord](https://discord.gg/wtNVzeE5QB).
-3. **Check Repos**: Explore configs & scripts here.
+1. **Join Us**: Chat on [Discord](https://discord.gg/wtNVzeE5QB).
+2. **Grab the Modpack**: Download it from our [official website](https://nuclear-tech-new-horizons.github.io/).
+3. **Start playing!**
 
 ## Support ❓
 - **Discord**: Get help on our [server](https://discord.gg/wtNVzeE5QB).
