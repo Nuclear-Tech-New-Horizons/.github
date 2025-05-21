@@ -39,10 +39,10 @@ Big love to the *GTNH* crew, mod makers, and our awesome players!
 
 
 <p align="center">
-    <img width="20%" max-height="20%" src="https://www.gtnewhorizons.com/images/big_gnd.webp">
+    <img width="20%" max-height="20%" src="https://cdn-icons-png.flaticon.com/512/5650/5650380.png">
 </p>
 
-<h2 align="center">Welcome to the GregTech: New Horizons Github organisation!</h2>
+<h2 align="center">Welcome to the Nuclear Tech: New Horizons Github organisation!</h2>
 
 
 <table align="center">
@@ -52,14 +52,14 @@ Big love to the *GTNH* crew, mod makers, and our awesome players!
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.gtnewhorizons.com/">🌍 Website</a><br>
-      <a href="https://discord.gg/EXshrPV">📬 Discord</a><br>
-      <a href="https://www.technicpack.net/modpack/mcnewhorizons.677387">🔧 Technic page</a><br>
-      <a href="http://downloads.gtnewhorizons.com/ServerPacks/">🖥️ Server downloads</a><br>
+      <a href="https://nuclear-tech-new-horizons.github.io">🌍 Website (UNDER CONSTRUCTION)</a><br>
+      <a href="https://discord.gg/wtNVzeE5QB">📬 Discord</a><br>
+      <a href="https://github.com/Nuclear-Tech-New-Horizons/NTNH/releases">🔧 Download page</a><br>
+      <a href="https://github.com/Nuclear-Tech-New-Horizons/NTNH/tree/server/forge">🖥️ Server downloads</a><br>
     </td>
     <td valign="top">
-      <a href="https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/issues/new/choose">🐞 Open a new issue</a><br>
-      <a href="https://github.com/pulls?q=is%3Aopen+is%3Apr+org%3AGTNewHorizons+archived%3Afalse+draft%3Afalse">🛠️ View all open pull requests</a><br>
+      <a href="https://github.com/Nuclear-Tech-New-Horizons/NTNH/issues/new/choose">🐞 Open a new issue</a><br>
+      <a href="https://github.com/pulls?q=is%3Aopen+is%3Apr+org%3ANuclear-Tech-New-Horizons+archived%3Afalse+draft%3Afalse">🛠️ View all open pull requests</a><br>
       <a href="https://github.com/GTNewHorizons/GTNH-Dev-Doc/blob/master/developer's%20code%20of%20conduct.md">📜 Developer's Code of Conduct</a><br>
     </td>
   </tr>
