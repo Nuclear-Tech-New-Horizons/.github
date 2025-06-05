@@ -1,5 +1,5 @@
-<p align="center">Add commentMore actions
-    <img width="20%" max-height="20%" src="https://cdn-icons-png.flaticon.com/512/5650/5650380.png">
+<p align="center">
+    <img width="20%" max-height="20%" src="https://github.com/Nuclear-Tech-New-Horizons/.github/blob/89bcea69d2673b514b9cd7b248ee3f46eba77acc/profile/high-1749143837.jpg">
 </p>
 
 <h2 align="center">Welcome to the Nuclear Tech: New Horizons Github organisation!</h2>
