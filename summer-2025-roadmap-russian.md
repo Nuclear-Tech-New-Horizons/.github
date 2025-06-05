@@ -53,8 +53,9 @@
 
 
 # Распределение по релизам (каждую вторую пятницу)
-1.5.0 - AE2 Update ()
+1.5.0 - AE2 Update (всё что связано с AE2)
 1.6.0 - NTM Quests Update ()
 1.7.0 - JOKE Update ()
 1.8.0 - Crafting Update ()
 1.9.0 - 
+1.?.0 - Tinker's Update ()
