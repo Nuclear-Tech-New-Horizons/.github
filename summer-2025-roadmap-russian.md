@@ -1,11 +1,3 @@
-2. Фикс крафта Overflow Void Card
-3. Фикс крафта Equal Distribution Card
-4. Фикс крафта Fake Crafting Card
-5. Фикс крафта Oredictionary Filter Card
-6. Фикс крафта Hyper-Acceleration Card
-7. Фикс крафта Superluminal Acceleration Card
-8. Фикс крафта Pattern Capacity Card
-9. Фикс крафта ME Processing Pattern Terminal
 2. Прогрессия по топливным стержням РБМК в квестлайне NTM: Reactors
 4. Прогрессия от реакторов до технеция в квестлайне NTM: Reactors
 5. Прогрессия от РБМК до кадмия в квестлайне NTM: Reactors
