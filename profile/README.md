@@ -22,6 +22,7 @@
       <a href="https://github.com/Nuclear-Tech-New-Horizons/NTNH/issues/new/choose">🐞 Open a new issue</a><br>
       <a href="https://github.com/pulls?q=is%3Aopen+is%3Apr+org%3ANuclear-Tech-New-Horizons+archived%3Afalse+draft%3Afalse">🛠️ View all open pull requests</a><br>
       <a href="https://github.com/GTNewHorizons/GTNH-Dev-Doc/blob/master/developer's%20code%20of%20conduct.md">📜 Developer's Code of Conduct</a><br>
+      <a href="https://crowdin.com/project/ntnh">📑 Translation project on Crowdin</a><br>
     </td>
   </tr>
 </table>
