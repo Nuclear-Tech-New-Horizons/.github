@@ -16,7 +16,7 @@
       <a href="https://nuclear-tech-new-horizons.github.io">🌍 Website (UNDER CONSTRUCTION)</a><br>
       <a href="https://discord.gg/wtNVzeE5QB">📬 Discord</a><br>
       <a href="https://github.com/Nuclear-Tech-New-Horizons/NTNH/releases">🔧 Download page</a><br>
-      <a href="https://github.com/Nuclear-Tech-New-Horizons/NTNH/tree/server/forge">🖥️ Server downloads</a><br>
+      <a href="https://github.com/Nuclear-Tech-New-Horizons/NTNH/tree/server">🖥️ Server downloads</a><br>
     </td>
     <td valign="top">
       <a href="https://github.com/Nuclear-Tech-New-Horizons/NTNH/issues/new/choose">🐞 Open a new issue</a><br>
